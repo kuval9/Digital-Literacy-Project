@@ -1,10 +1,10 @@
 # Digital Literacy Portfolio
 ### CSE0001 – Digital Literacy | VIT Bhopal University
 
-**Name:** Deepak Singh
-**Reg No.:** 25BSA10126
+**Name:** Kuval Dayal
+**Reg No.:** 25BAI11610
 **Branch:** B.Tech – CSE (AI/ML)  
-**Year:** First Year (Semester II)  
+**Year:** First Year (Semester II)
 
 ---
 
